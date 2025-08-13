@@ -1,0 +1,15 @@
+Findings:
+
+TCP packets were used for reliable transport of data between hosts.
+
+ARP requests and replies showed IP-to-MAC address mapping within the local network.
+
+DNS queries and responses demonstrated the domain name resolution process.
+
+Outcome:
+
+Practiced live network capture and protocol filtering in Wireshark.
+
+Learned how different protocols operate at various layers of the TCP/IP model.
+
+Built skills in interpreting captured packets for troubleshooting and analysis.
